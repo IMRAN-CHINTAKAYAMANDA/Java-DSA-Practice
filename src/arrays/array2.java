@@ -3,7 +3,7 @@ package arrays;
 public class array2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// mathamatics on array
 		int [] num = {1,2,3,4,5,6,7,8,9,10};
 		int i=0;
 		int sum = 0;
